@@ -1,0 +1,18 @@
+.produtos {
+    display: flex;
+    justify-content: space-around;
+}
+
+.produtos li {
+    border: 1px solid rgb(200, 200, 200);
+    text-align: left;
+    border-radius: 5px;
+    list-style: none;
+    padding: 20px;
+    box-shadow: 3px 3px 3px 3px rgb(145, 145, 145);
+}
+
+.produtos_titulo {
+    text-align: left;
+    margin-left: 10%;
+}
